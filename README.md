@@ -1,9 +1,9 @@
 # _{Application Name}_
 Mad Lib
 #### _{Brief description of application}_
-Refactored Mad Libs to use a loop.
+Refactored Mad Libs to use a loop. Epicodus Week 3 Practice: Looping Lesson 14 of 38
 #### By _**{List of contributors}**_
-Brad Prettyman
+Anthony McRae Brad Prettyman
 ## Technologies Used
 
 HTML
