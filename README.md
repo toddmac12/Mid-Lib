@@ -1,9 +1,9 @@
 # _{Application Name}_
-
+Mad Lib
 #### _{Brief description of application}_
-
+Refactored Mad Libs to use a loop.
 #### By _**{List of contributors}**_
-
+Brad Prettyman
 ## Technologies Used
 
 HTML
