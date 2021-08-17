@@ -20,7 +20,7 @@ _{This is a detailed description of your application. Give as much detail as nee
 To clone and run from GitHub Repo:
 
 In bash at a folder of your choice, type the following:
-$ git clone https://github.com/chansen1395/more-branching8-12
+$ git clone https://github.com/toddmac12/Mid-Lib
 $ code .
 Use a program such as VSCode to view and run the program.
 Alternatively, see links below to open in your browser using the Reach this webpage through the browser of your choice using the Active gh-pages link
